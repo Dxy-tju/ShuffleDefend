@@ -32,7 +32,7 @@ runs
 !runs/
 core
 comdefend.py
-*jpg
+*.jpg
 *.JPEG
 *.zip
 *.txt
